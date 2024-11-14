@@ -20,3 +20,10 @@ pip install -r requirements.txt
 ```bash
 tts --text "Hello, This is my first speech output using Coqui TTS" --model_name tts_models/en/ek1/tacotron2 --out_path output/output.wav
 ```
+
+## Usage
+
+### Run the Application
+```bash
+python tts-app.py
+```
